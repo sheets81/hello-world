@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello World
+
+Sheets here! Excited to begin coding. 
